@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956648690518",
+    "project_id": "registerapp-40955",
+    "storage_bucket": "registerapp-40955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956648690518:android:ef7628727033ac8233fcf7",
+        "android_client_info": {
+          "package_name": "uz.gita.registerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956648690518-oq0n2dubsbiktcfdppfbujpl1ardf6d6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.gita.registerapp",
+            "certificate_hash": "ba42ac9248a9752496221016048b680d0f3129cb"
+          }
+        },
+        {
+          "client_id": "956648690518-r9an2o17hdpp6s2h6iafipn242kabmkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwbWB-_ZB5QzUASsqZb_p-7LrP9WcijWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956648690518-r9an2o17hdpp6s2h6iafipn242kabmkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
